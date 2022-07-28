@@ -41,6 +41,7 @@ html,body{
     height: auto;
     border: 2px solid green;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .card{ 
