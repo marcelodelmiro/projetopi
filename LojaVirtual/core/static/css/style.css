@@ -35,3 +35,18 @@ html,body{
     margin-top: 50px;
     padding: 10px;
 }
+
+.content-cards{
+    width: 100%;
+    height: auto;
+    border: 2px solid green;
+    display: flex;
+}
+
+.card{ 
+    width: 250px;
+    height: auto;
+    border: 1px solid grey;
+    margin: 20px;
+    padding: 10px;
+}
